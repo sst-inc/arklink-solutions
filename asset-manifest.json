@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/arklink-solutions/static/css/main.97faa4a1.css",
+    "main.js": "/arklink-solutions/static/js/main.7d667409.js",
+    "static/js/787.93618544.chunk.js": "/arklink-solutions/static/js/787.93618544.chunk.js",
+    "static/media/FiraCode-Bold.woff2": "/arklink-solutions/static/media/FiraCode-Bold.abe3ab87cff86bb05610.woff2",
+    "static/media/FiraCode-SemiBold.woff2": "/arklink-solutions/static/media/FiraCode-SemiBold.564932952cfbb676de45.woff2",
+    "static/media/FiraCode-Medium.woff2": "/arklink-solutions/static/media/FiraCode-Medium.1bc138a84f63b384c3f2.woff2",
+    "index.html": "/arklink-solutions/index.html",
+    "main.97faa4a1.css.map": "/arklink-solutions/static/css/main.97faa4a1.css.map",
+    "main.7d667409.js.map": "/arklink-solutions/static/js/main.7d667409.js.map",
+    "787.93618544.chunk.js.map": "/arklink-solutions/static/js/787.93618544.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97faa4a1.css",
+    "static/js/main.7d667409.js"
+  ]
+}
